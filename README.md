@@ -4,10 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dathip&label=Profile%20views&color=0e75b6&style=flat" alt="dathip" /> </p>
 
 
-- 🔭 I’m currently working on [music site](https://dat-hip-github-io.vercel.app/)
-
-- 🌱 I’m currently learning **Javascript, ReactJs, ALl**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DatHip/DatHip.github.io](https://github.com/DatHip/DatHip.github.io)
 
 - 📫 How to reach me **huynhtiiendat99@gmail.com**
