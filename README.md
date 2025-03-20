@@ -59,13 +59,6 @@ class WhoAmI:
 
 	
  ```
- 
-## Current Works
- * I'm currently working on 🔭 building **Mobile Web Apps using React Native, Reactjs** and working up on polishing my skills 🌱 in **Competitive Programming**.
- 
-## Other Stuff
-  - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
-
 
 ##  Here are some [🦜 party parrots](https://cultofthepartyparrot.com):
 <div>
